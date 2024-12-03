@@ -122,5 +122,19 @@
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_PillarTwoMethodDescription_loc" order="58.0"/>
 	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoTaxExpenseBenefitDescription" xlink:label="rj_PillarTwoTaxExpenseBenefitDescription_loc"/>
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_PillarTwoTaxExpenseBenefitDescription_loc" order="59.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsEndowment" xlink:label="rj_FinancialAssetsEndowment_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_FinancialAssetsEndowment_loc" order="60.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsPaymentsRepayments" xlink:label="rj_FinancialAssetsPaymentsRepayments_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_FinancialAssetsPaymentsRepayments_loc" order="61.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsReceiptsDeposits" xlink:label="rj_FinancialAssetsReceiptsDeposits_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_FinancialAssetsReceiptsDeposits_loc" order="62.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentPayments" xlink:label="rj_LiabilitiesNoncurrentPayments_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_LiabilitiesNoncurrentPayments_loc" order="63.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentReceiptsDeposits" xlink:label="rj_LiabilitiesNoncurrentReceiptsDeposits_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_LiabilitiesNoncurrentReceiptsDeposits_loc" order="64.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent" xlink:label="rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent_loc" order="65.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_SubtotalLiabilitiesNoncurrent" xlink:label="rj_SubtotalLiabilitiesNoncurrent_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_SubtotalLiabilitiesNoncurrent_loc" order="66.0"/>
   </link:presentationLink>
 </link:linkbase>

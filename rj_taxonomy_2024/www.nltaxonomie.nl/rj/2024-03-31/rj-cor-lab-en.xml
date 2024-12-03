@@ -14639,5 +14639,33 @@
 	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoTaxExpenseBenefitDescription" xlink:label="rj_PillarTwoTaxExpenseBenefitDescription_loc"/>
     <link:label xlink:type="resource" xlink:label="rj_PillarTwoTaxExpenseBenefitDescription_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_PillarTwoTaxExpenseBenefitDescription_label_en">Description of the Pillar 2 tax expense (or benefit), including any Pillar 2 pass-on tax, included in the tax expense or benefit</link:label>
     <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_PillarTwoTaxExpenseBenefitDescription_loc" xlink:to="rj_PillarTwoTaxExpenseBenefitDescription_label_en"/>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_FinancialAssetsEndowment_loc" xlink:to="rj_FinancialAssetsEndowment_label_en"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsEndowment" xlink:label="rj_FinancialAssetsEndowment_loc"/>
+	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsEndowment_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_FinancialAssetsEndowment_label_en">Endowment</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_FinancialAssetsPaymentsRepayments_loc" xlink:to="rj_FinancialAssetsPaymentsRepayments_label_en"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsPaymentsRepayments" xlink:label="rj_FinancialAssetsPaymentsRepayments_loc"/>
+	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsPaymentsRepayments_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_FinancialAssetsPaymentsRepayments_label_en">Payments/ repayments</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_FinancialAssetsPaymentsRepayments_loc" xlink:to="rj_FinancialAssetsPaymentsRepayments_negatedLabel_en"/>
+	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsPaymentsRepayments_negatedLabel_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_FinancialAssetsPaymentsRepayments_negatedLabel_en">Payments/ repayments</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_FinancialAssetsReceiptsDeposits_loc" xlink:to="rj_FinancialAssetsReceiptsDeposits_label_en"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsReceiptsDeposits" xlink:label="rj_FinancialAssetsReceiptsDeposits_loc"/>
+	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsReceiptsDeposits_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_FinancialAssetsReceiptsDeposits_label_en">Receipts / deposits</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentPayments_loc" xlink:to="rj_LiabilitiesNoncurrentPayments_label_en"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentPayments" xlink:label="rj_LiabilitiesNoncurrentPayments_loc"/>
+	<link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentPayments_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_LiabilitiesNoncurrentPayments_label_en">Payments</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentPayments_loc" xlink:to="rj_LiabilitiesNoncurrentPayments_negatedLabel_en"/>
+    <link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentPayments_negatedLabel_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_LiabilitiesNoncurrentPayments_negatedLabel_en">Payments</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentPayments_loc" xlink:to="rj_LiabilitiesNoncurrentPayments_negatedLabel_en"/>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentReceiptsDeposits_loc" xlink:to="rj_LiabilitiesNoncurrentReceiptsDeposits_label_en"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentReceiptsDeposits" xlink:label="rj_LiabilitiesNoncurrentReceiptsDeposits_loc"/>
+	<link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentReceiptsDeposits_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_LiabilitiesNoncurrentReceiptsDeposits_label_en">Receipts / deposits</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent_loc" xlink:to="rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent_label_en"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent" xlink:label="rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent_loc"/>
+	<link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_LiabilitiesNoncurrentTransferToLiabilitiesCurrent_label_en">Receipts / deposits</link:label>
+	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_SubtotalLiabilitiesNoncurrent_loc" xlink:to="rj_SubtotalLiabilitiesNoncurrent_label_en"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_SubtotalLiabilitiesNoncurrent" xlink:label="rj_SubtotalLiabilitiesNoncurrent_loc"/>
+	<link:label xlink:type="resource" xlink:label="rj_SubtotalLiabilitiesNoncurrent_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en" id="rj_SubtotalLiabilitiesNoncurrent_label_en">Subtotal noncurrent liabilities</link:label>
+	<link:label xlink:type="resource" xlink:label="rj_SubtotalLiabilitiesNoncurrent_periodEndLabel_en" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xml:lang="en" id="rj_SubtotalLiabilitiesNoncurrent_periodEndLabel_en">Subtotal noncurrent liabilities at the end of the period</link:label>
+    <link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_SubtotalLiabilitiesNoncurrent_loc" xlink:to="rj_SubtotalLiabilitiesNoncurrent_periodEndLabel_en"/>
   </link:labelLink>
 </link:linkbase>
