@@ -14486,7 +14486,7 @@
 	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsPaymentsRepayments" xlink:label="rj_FinancialAssetsPaymentsRepayments_loc"/>
 	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsPaymentsRepayments_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="rj_FinancialAssetsPaymentsRepayments_label_de">Zahlungen/Rücknahmen</link:label>
 	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_FinancialAssetsPaymentsRepayments_loc" xlink:to="rj_FinancialAssetsPaymentsRepayments_negatedLabel_de"/>
-	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsPaymentsRepayments_negatedLabel_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="rj_FinancialAssetsPaymentsRepayments_negatedLabel_de">Zahlungen/Rücknahmen</link:label>
+	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsPaymentsRepayments_negatedLabel_de" xlink:role="http://www.xbrl.org/2009/role/negatedLabel" xml:lang="de" id="rj_FinancialAssetsPaymentsRepayments_negatedLabel_de">Zahlungen/Rücknahmen</link:label>
 	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_FinancialAssetsReceiptsDeposits_loc" xlink:to="rj_FinancialAssetsReceiptsDeposits_label_de"/>
 	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_FinancialAssetsReceiptsDeposits" xlink:label="rj_FinancialAssetsReceiptsDeposits_loc"/>
 	<link:label xlink:type="resource" xlink:label="rj_FinancialAssetsReceiptsDeposits_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="rj_FinancialAssetsReceiptsDeposits_label_de">Einzahlungen / Einnahmen</link:label>
@@ -14494,8 +14494,7 @@
 	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentPayments" xlink:label="rj_LiabilitiesNoncurrentPayments_loc"/>
 	<link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentPayments_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="rj_LiabilitiesNoncurrentPayments_label_de">Zahlungen</link:label>
 	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentPayments_loc" xlink:to="rj_LiabilitiesNoncurrentPayments_negatedLabel_de"/>
-    <link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentPayments_negatedLabel_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="rj_LiabilitiesNoncurrentPayments_negatedLabel_de">Zahlungen</link:label>
-	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentPayments_loc" xlink:to="rj_LiabilitiesNoncurrentPayments_negatedLabel_de"/>
+    <link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentPayments_negatedLabel_de" xlink:role="http://www.xbrl.org/2009/role/negatedLabel" xml:lang="de" id="rj_LiabilitiesNoncurrentPayments_negatedLabel_de">Zahlungen</link:label>
 	<link:labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="rj_LiabilitiesNoncurrentReceiptsDeposits_loc" xlink:to="rj_LiabilitiesNoncurrentReceiptsDeposits_label_de"/>
 	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_LiabilitiesNoncurrentReceiptsDeposits" xlink:label="rj_LiabilitiesNoncurrentReceiptsDeposits_loc"/>
 	<link:label xlink:type="resource" xlink:label="rj_LiabilitiesNoncurrentReceiptsDeposits_label_de" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="de" id="rj_LiabilitiesNoncurrentReceiptsDeposits_label_de">Einzahlungen / Einnahmen</link:label>
