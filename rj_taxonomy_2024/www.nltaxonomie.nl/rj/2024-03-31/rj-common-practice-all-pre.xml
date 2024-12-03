@@ -114,5 +114,13 @@
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_DividendsPaidOtherClassifiedAsFinancingActivities_loc" order="54.0"/>
     <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_DividendsPaidOtherClassifiedAsOperatingActivities" xlink:label="rj_DividendsPaidOtherClassifiedAsOperatingActivities_loc"/>
     <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_DividendsPaidOtherClassifiedAsOperatingActivities_loc" order="55.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoDeferredTaxAssetsLiabilitiesDescription" xlink:label="rj_PillarTwoDeferredTaxAssetsLiabilitiesDescription_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_PillarTwoDeferredTaxAssetsLiabilitiesDescription_loc" order="56.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoExpectedEffectsDescription" xlink:label="rj_PillarTwoExpectedEffectsDescription_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_PillarTwoExpectedEffectsDescription_loc" order="57.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoMethodDescription" xlink:label="rj_PillarTwoMethodDescription_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_PillarTwoMethodDescription_loc" order="58.0"/>
+	<link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoTaxExpenseBenefitDescription" xlink:label="rj_PillarTwoTaxExpenseBenefitDescription_loc"/>
+    <link:presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="rj_AnnualReportingGuidelinesCommonPracticeTitle_loc" xlink:to="rj_PillarTwoTaxExpenseBenefitDescription_loc" order="59.0"/>
   </link:presentationLink>
 </link:linkbase>

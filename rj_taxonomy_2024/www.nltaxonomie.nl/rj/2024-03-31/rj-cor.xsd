@@ -4021,4 +4021,8 @@
   <xsd:element name="ProfitAppropriationAfter" id="rj_ProfitAppropriationAfter" type="dtr:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
   <xsd:element name="FinancialStatementsConsolidated" id="rj_FinancialStatementsConsolidated" type="xbrli:booleanItemType" substitutionGroup="xbrli:item" abstract="false" nillable="true" xbrli:periodType="duration"/>
   <xsd:element name="CashFlowStatementTitle" id="rj_CashFlowStatementTitle" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="PillarTwoDeferredTaxAssetsLiabilitiesDescription" id="rj_PillarTwoDeferredTaxAssetsLiabilitiesDescription" type="dtr:textBlockItemType" substitutionGroup="xbrli:item" abstract="false" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="PillarTwoExpectedEffectsDescription" id="rj_PillarTwoExpectedEffectsDescription" type="dtr:textBlockItemType" substitutionGroup="xbrli:item" abstract="false" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="PillarTwoMethodDescription" id="rj_PillarTwoMethodDescription" type="dtr:textBlockItemType" substitutionGroup="xbrli:item" abstract="false" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="PillarTwoTaxExpenseBenefitDescription" id="rj_PillarTwoTaxExpenseBenefitDescription" type="dtr:textBlockItemType" substitutionGroup="xbrli:item" abstract="false" nillable="true" xbrli:periodType="duration"/>
 </xsd:schema>
