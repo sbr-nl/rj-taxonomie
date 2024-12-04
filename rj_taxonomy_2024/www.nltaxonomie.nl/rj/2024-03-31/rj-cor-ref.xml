@@ -6,6 +6,52 @@
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-reference" xlink:type="simple" xlink:href="http://www.xbrl.org/2008/generic-reference.xsd#element-reference"/>
   <link:referenceLink xlink:type="extended" xlink:role="http://www.xbrl.org/2003/role/link">
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_SigningManagingSupervisoryDirectorsDisclosure" xlink:label="bw2-titel9_SigningManagingSupervisoryDirectorsDisclosure_loc"/>
+	<link:reference xlink:type="resource" xlink:label="rj_RJ_2023-01-01_292_509_A_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="rj_RJ_2023-01-01_292_509_A_ref">
+      <ref:Chapter>292</ref:Chapter>
+      <ref:IssueDate>2023-01-01</ref:IssueDate>
+      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
+      <ref:Paragraph>509</ref:Paragraph>
+	  <ref:Subparagraph>a</ref:Subparagraph>
+    </link:reference>
+    <link:reference xlink:type="resource" xlink:label="rj_RJ_2023-01-01_292_509_B_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="rj_RJ_2023-01-01_292_509_B_ref">
+      <ref:Chapter>292</ref:Chapter>
+      <ref:IssueDate>2023-01-01</ref:IssueDate>
+      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
+      <ref:Paragraph>509</ref:Paragraph>
+	  <ref:Subparagraph>b</ref:Subparagraph>
+    </link:reference>
+    <link:reference xlink:type="resource" xlink:label="rj_RJ_2023-01-01_404_106_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="rj_RJ_2023-01-01_404_106_ref">
+      <ref:Chapter>404</ref:Chapter>
+      <ref:IssueDate>2023-01-01</ref:IssueDate>
+      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
+      <ref:Paragraph>106</ref:Paragraph>
+    </link:reference>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_AssetConcernedRestrictionDescription_loc" xlink:to="rj_RJ_2023-01-01_292_509_A_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_AssetConcernedRestrictionDescription" xlink:label="rj_AssetConcernedRestrictionDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_RelatedAgreementsOptionDescription_loc" xlink:to="rj_RJ_2023-01-01_292_509_A_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_RelatedAgreementsOptionDescription" xlink:label="rj_RelatedAgreementsOptionDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_TermOtherImportantTermsDescription_loc" xlink:to="rj_RJ_2023-01-01_292_509_A_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_TermOtherImportantTermsDescription" xlink:label="rj_TermOtherImportantTermsDescription_loc"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_AmountRecognizedIncomeDescription_loc" xlink:to="rj_RJ_2023-01-01_292_509_B_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_AmountRecognizedIncomeDescription" xlink:label="rj_AmountRecognizedIncomeDescription_loc"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_MethodReceivedCompensationDescription_loc" xlink:to="rj_RJ_2023-01-01_292_509_B_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_MethodReceivedCompensationDescription" xlink:label="rj_MethodReceivedCompensationDescription_loc"/>	
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_ProfitLossAccountAmountAccountedForDescription_loc" xlink:to="rj_RJ_2023-01-01_292_509_B_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_ProfitLossAccountAmountAccountedForDescription" xlink:label="rj_ProfitLossAccountAmountAccountedForDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_CriticalPerformanceIndicatorPartSustainableActivitiesPollutionPreventionControlDescription_loc" xlink:to="rj_RJ_2023-01-01_400_3015_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_CriticalPerformanceIndicatorPartSustainableActivitiesPollutionPreventionControlDescription" xlink:label="rj_CriticalPerformanceIndicatorPartSustainableActivitiesPollutionPreventionControlDescription_loc"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_CriticalPerformanceIndicatorPartSustainableActivitiesProtectionRestorationEcosystemsDescription_loc" xlink:to="rj_RJ_2023-01-01_400_3015_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_CriticalPerformanceIndicatorPartSustainableActivitiesProtectionRestorationEcosystemsDescription" xlink:label="rj_CriticalPerformanceIndicatorPartSustainableActivitiesProtectionRestorationEcosystemsDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_CriticalPerformanceIndicatorPartSustainableActivitiesProtectionWaterResourcesDescription_loc" xlink:to="rj_RJ_2023-01-01_400_3015_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_CriticalPerformanceIndicatorPartSustainableActivitiesProtectionWaterResourcesDescription" xlink:label="rj_CriticalPerformanceIndicatorPartSustainableActivitiesProtectionWaterResourcesDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_CriticalPerformanceIndicatorPartSustainableActivitiesTransitionCircularEconomyDescription_loc" xlink:to="rj_RJ_2023-01-01_400_3015_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_CriticalPerformanceIndicatorPartSustainableActivitiesTransitionCircularEconomyDescription" xlink:label="rj_CriticalPerformanceIndicatorPartSustainableActivitiesTransitionCircularEconomyDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_MethodDeterminationNotEconomicActvitiesDescription_loc" xlink:to="rj_RJ_2023-01-01_400_3015_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_MethodDeterminationNotEconomicActvitiesDescription" xlink:label="rj_MethodDeterminationNotEconomicActvitiesDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_PercentageTotalRevenues_loc" xlink:to="rj_RJ_2023-01-01_270_601_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PercentageTotalRevenues" xlink:label="rj_PercentageTotalRevenues_loc"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_ReasonChangesRatioDescription_loc" xlink:to="rj_RJ_2023-01-01_404_106_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_ReasonChangesRatioDescription" xlink:label="rj_ReasonChangesRatioDescription_loc"/>
     <link:reference xlink:type="resource" xlink:label="RJ_2023-01-01_110_103_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJ_2023-01-01_110_103_ref">
       <ref:Chapter>110</ref:Chapter>
       <ref:IssueDate>2023-01-01</ref:IssueDate>
