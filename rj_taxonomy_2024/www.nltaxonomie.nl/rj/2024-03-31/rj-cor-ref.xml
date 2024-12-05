@@ -5,7 +5,37 @@
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:type="simple" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-reference" xlink:type="simple" xlink:href="http://www.xbrl.org/2008/generic-reference.xsd#element-reference"/>
   <link:referenceLink xlink:type="extended" xlink:role="http://www.xbrl.org/2003/role/link">
-    <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_SigningManagingSupervisoryDirectorsDisclosure" xlink:label="bw2-titel9_SigningManagingSupervisoryDirectorsDisclosure_loc"/>
+	<link:reference xlink:type="resource" xlink:label="rj_RJ_2023-01-01_272_717_A_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="rj_RJ_2023-01-01_272_717_A_ref">
+      <ref:Chapter>272</ref:Chapter>
+      <ref:IssueDate>2023-01-01</ref:IssueDate>
+      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
+      <ref:Paragraph>717</ref:Paragraph>
+	  <ref:Subparagraph>a</ref:Subparagraph>
+    </link:reference>
+	<link:reference xlink:type="resource" xlink:label="rj_RJ_2023-01-01_272_717_B_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="rj_RJ_2023-01-01_272_717_B_ref">
+      <ref:Chapter>272</ref:Chapter>
+      <ref:IssueDate>2023-01-01</ref:IssueDate>
+      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
+      <ref:Paragraph>717</ref:Paragraph>
+	  <ref:Subparagraph>b</ref:Subparagraph>
+    </link:reference>	
+	<link:reference xlink:type="resource" xlink:label="rj_RJ_2023-01-01_272_717_C_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="rj_RJ_2023-01-01_272_717_C_ref">
+      <ref:Chapter>272</ref:Chapter>
+      <ref:IssueDate>2023-01-01</ref:IssueDate>
+      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
+      <ref:Paragraph>717</ref:Paragraph>
+	  <ref:Subparagraph>c</ref:Subparagraph>
+    </link:reference>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_PillarTwoDeferredTaxAssetsLiabilitiesDescription_loc" xlink:to="rj_RJ_2023-01-01_272_717_A_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoDeferredTaxAssetsLiabilitiesDescription" xlink:label="rj_PillarTwoDeferredTaxAssetsLiabilitiesDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_PillarTwoTaxExpenseBenefitDescription_loc" xlink:to="rj_RJ_2023-01-01_272_717_B_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoTaxExpenseBenefitDescription" xlink:label="rj_PillarTwoTaxExpenseBenefitDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_PillarTwoMethodDescription_loc" xlink:to="rj_RJ_2023-01-01_272_717_C_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoMethodDescription" xlink:label="rj_PillarTwoMethodDescription_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_ContractCosts_loc" xlink:to="rj_RJ_2023-01-01_221_418_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_ContractCosts" xlink:label="rj_ContractCosts_loc"/>
+	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="rj_PillarTwoExpectedEffectsDescription_loc" xlink:to="rj_RJ_2023-01-01_272_718_ref"/>
+    <link:loc xlink:type="locator" xlink:href="rj-cor.xsd#rj_PillarTwoExpectedEffectsDescription" xlink:label="rj_PillarTwoExpectedEffectsDescription_loc"/>
 	<link:reference xlink:type="resource" xlink:label="rj_RJ_2023-01-01_292_509_A_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="rj_RJ_2023-01-01_292_509_A_ref">
       <ref:Chapter>292</ref:Chapter>
       <ref:IssueDate>2023-01-01</ref:IssueDate>
@@ -58,6 +88,7 @@
       <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
       <ref:Paragraph>103</ref:Paragraph>
     </link:reference>
+	<link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_SigningManagingSupervisoryDirectorsDisclosure" xlink:label="bw2-titel9_SigningManagingSupervisoryDirectorsDisclosure_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_SigningManagingSupervisoryDirectorsDisclosure_loc" xlink:to="RJ_2023-01-01_110_103_ref"/>
     <link:reference xlink:type="resource" xlink:label="RJk_2023-01-01_A6_108_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJk_2023-01-01_A6_108_ref">
       <ref:Chapter>A6</ref:Chapter>
