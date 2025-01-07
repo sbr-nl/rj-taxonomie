@@ -1035,6 +1035,13 @@
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ChangesValueFinancialAssetsSecuritiesPolicy_loc" xlink:to="RJk_2023-01-01_A2_206_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_ChangesValueFinancialAssetsSecurities" xlink:label="bw2-titel9_ChangesValueFinancialAssetsSecurities_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ChangesValueFinancialAssetsSecurities_loc" xlink:to="RJ_2023-01-01_620_301_ref"/>
+    <link:reference xlink:type="resource" xlink:label="RJ_2023-01-01_645_501_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJ_2023-01-01_645_501_ref">
+      <ref:Chapter>645</ref:Chapter>
+      <ref:IssueDate>2023-01-01</ref:IssueDate>
+      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
+      <ref:Paragraph>501</ref:Paragraph>
+    </link:reference>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ChangesValueFinancialAssetsSecurities_loc" xlink:to="RJ_2023-01-01_645_501_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ChangesValueFinancialAssetsSecurities_loc" xlink:to="RJ_2023-01-01_655_402a_ref"/>
     <link:reference xlink:type="resource" xlink:label="RJk_2023-01-01_B6_108_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJk_2023-01-01_B6_108_ref">
       <ref:Chapter>B6</ref:Chapter>
@@ -1351,8 +1358,7 @@
       <ref:Paragraph>501</ref:Paragraph>
       <ref:Subparagraph>b</ref:Subparagraph>
     </link:reference>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_CostsIncorporationShareIssuePolicy_loc" xlink:to="RJ_2023-01-01_210_501_A_ref"/>
-	<link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_CostsIncorporationShareIssuePolicy_loc" xlink:to="RJ_2023-01-01_210_501_C_ref"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_CostsIncorporationShareIssuePolicy_loc" xlink:to="RJ_2023-01-01_210_501_B_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_CostsIncorporationShareIssuePolicy_loc" xlink:to="RJk_2023-01-01_A2_206_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_CostsIncorporationShareIssue" xlink:label="bw2-titel9_CostsIncorporationShareIssue_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_CostsIncorporationShareIssue_loc" xlink:to="RJ_2023-01-01_600_108_ref"/>
@@ -1516,8 +1522,7 @@
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_DevelopmentCostsDisclosure_loc" xlink:to="RJ_2023-01-01_300_106_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_DevelopmentCostsPolicy" xlink:label="bw2-titel9_DevelopmentCostsPolicy_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_DevelopmentCostsPolicy_loc" xlink:to="RJ_2023-01-01_120_401_ref"/>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_DevelopmentCostsPolicy_loc" xlink:to="RJ_2023-01-01_210_501_A_ref"/>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_DevelopmentCostsPolicy_loc" xlink:to="RJ_2023-01-01_210_501_C_ref"/>	
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_DevelopmentCostsPolicy_loc" xlink:to="RJ_2023-01-01_210_501_B_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_DevelopmentCostsPolicy_loc" xlink:to="RJk_2023-01-01_A2_206_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_DevelopmentCosts" xlink:label="bw2-titel9_DevelopmentCosts_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_DevelopmentCosts_loc" xlink:to="RJ_2023-01-01_600_108_ref"/>
@@ -1878,6 +1883,7 @@
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryExpenses_loc" xlink:to="RJ_2023-01-01_600_108_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryExpenses_loc" xlink:to="RJ_2023-01-01_605_106_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryExpenses_loc" xlink:to="RJ_2023-01-01_605_221_ref"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryExpenses_loc" xlink:to="RJ_2023-01-01_645_501_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_ExtraordinaryIncomeDisclosure" xlink:label="bw2-titel9_ExtraordinaryIncomeDisclosure_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryIncomeDisclosure_loc" xlink:to="RJ_2023-01-01_300_106_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_ExtraordinaryIncomePolicy" xlink:label="bw2-titel9_ExtraordinaryIncomePolicy_loc"/>
@@ -1887,6 +1893,7 @@
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryIncome_loc" xlink:to="RJ_2023-01-01_600_108_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryIncome_loc" xlink:to="RJ_2023-01-01_605_106_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryIncome_loc" xlink:to="RJ_2023-01-01_605_221_ref"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ExtraordinaryIncome_loc" xlink:to="RJ_2023-01-01_645_501_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_FinancialAssetsAccumulatedDepreciationImpairments" xlink:label="bw2-titel9_FinancialAssetsAccumulatedDepreciationImpairments_loc"/>
     <link:reference xlink:type="resource" xlink:label="RJ_2023-01-01_214_605_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJ_2023-01-01_214_605_ref">
       <ref:Chapter>214</ref:Chapter>
@@ -2204,13 +2211,13 @@
     </link:reference>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoingConcernDisclosure_loc" xlink:to="RJ_2023-01-01_170_104_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoingConcernDisclosure_loc" xlink:to="RJk_2023-01-01_A2_213_ref"/>
-    <link:reference xlink:type="resource" xlink:label="RJk_2023-01-01_A2_211a_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJk_2023-01-01_A2_211a_ref">
+    <link:reference xlink:type="resource" xlink:label="RJk_2023-01-01_A2_213a_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJk_2023-01-01_A2_213a_ref">
       <ref:Chapter>A2</ref:Chapter>
       <ref:IssueDate>2023-01-01</ref:IssueDate>
       <ref:Name>Richtlijnen voor de jaarverslaggeving voor kleine rechtspersonen</ref:Name>
-      <ref:Paragraph>211a</ref:Paragraph>
+      <ref:Paragraph>213a</ref:Paragraph>
     </link:reference>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoingConcernDisclosure_loc" xlink:to="RJk_2023-01-01_A2_211a_ref"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoingConcernDisclosure_loc" xlink:to="RJk_2023-01-01_A2_213a_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_GoingConcernEffectNotGoingConcernBasisOnEquityAndResultsDescription" xlink:label="bw2-titel9_GoingConcernEffectNotGoingConcernBasisOnEquityAndResultsDescription_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoingConcernEffectNotGoingConcernBasisOnEquityAndResultsDescription_loc" xlink:to="RJ_2023-01-01_170_104_ref"/>
     <link:reference xlink:type="resource" xlink:label="RJ_2023-01-01_170_206_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJ_2023-01-01_170_206_ref">
@@ -2262,8 +2269,7 @@
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillDisclosure_loc" xlink:to="RJk_2023-01-01_B1_119_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_GoodwillPolicy" xlink:label="bw2-titel9_GoodwillPolicy_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillPolicy_loc" xlink:to="RJ_2023-01-01_120_401_ref"/>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillPolicy_loc" xlink:to="RJ_2023-01-01_210_501_C_ref"/>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillPolicy_loc" xlink:to="RJ_2023-01-01_210_501_A_ref"/>	
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillPolicy_loc" xlink:to="RJ_2023-01-01_210_501_B_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillPolicy_loc" xlink:to="RJ_2023-01-01_214_602_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillPolicy_loc" xlink:to="RJk_2023-01-01_A2_206_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_GoodwillPolicy_loc" xlink:to="RJk_2023-01-01_B3_128_ref"/>
@@ -2652,7 +2658,7 @@
       <ref:Paragraph>501</ref:Paragraph>
       <ref:Subparagraph>c</ref:Subparagraph>
     </link:reference>
-    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_IntangibleAssetsAccumulatedAmortisationImpairments_loc" xlink:to="RJ_2023-01-01_210_501_D_ref"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_IntangibleAssetsAccumulatedAmortisationImpairments_loc" xlink:to="RJ_2023-01-01_210_501_C_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_IntangibleAssetsAccumulatedRevaluations" xlink:label="bw2-titel9_IntangibleAssetsAccumulatedRevaluations_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_IntangibleAssetsAccumulatedRevaluations_loc" xlink:to="RJ_2023-01-01_210_501_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_IntangibleAssetsAdditions" xlink:label="bw2-titel9_IntangibleAssetsAdditions_loc"/>
@@ -2663,13 +2669,6 @@
       <ref:Paragraph>501</ref:Paragraph>
       <ref:Subparagraph>e</ref:Subparagraph>
     </link:reference>
-    <link:reference xlink:type="resource" xlink:label="RJ_2023-01-01_210_501_F_ref" xlink:role="http://www.xbrl.org/2003/role/reference" id="RJ_2023-01-01_210_501_F_ref">
-      <ref:Chapter>210</ref:Chapter>
-      <ref:IssueDate>2023-01-01</ref:IssueDate>
-      <ref:Name>Richtlijnen voor de jaarverslaggeving</ref:Name>
-      <ref:Paragraph>501</ref:Paragraph>
-      <ref:Subparagraph>f</ref:Subparagraph>
-    </link:reference>	
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_IntangibleAssetsAdditions_loc" xlink:to="RJ_2023-01-01_210_501_E_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_IntangibleAssetsAmortisation" xlink:label="bw2-titel9_IntangibleAssetsAmortisation_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_IntangibleAssetsAmortisation_loc" xlink:to="RJ_2023-01-01_210_501_E_ref"/>
@@ -4924,6 +4923,7 @@
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxExtraordinaryItems_loc" xlink:to="RJ_2023-01-01_600_108_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxExtraordinaryItems_loc" xlink:to="RJ_2023-01-01_605_106_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxExtraordinaryItems_loc" xlink:to="RJ_2023-01-01_605_221_ref"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxExtraordinaryItems_loc" xlink:to="RJ_2023-01-01_645_501_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_ResultAfterTaxOrdinaryActivitiesPolicy" xlink:label="bw2-titel9_ResultAfterTaxOrdinaryActivitiesPolicy_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxOrdinaryActivitiesPolicy_loc" xlink:to="RJ_2023-01-01_120_401_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxOrdinaryActivitiesPolicy_loc" xlink:to="RJk_2023-01-01_A2_206_ref"/>
@@ -4932,6 +4932,7 @@
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxOrdinaryActivities_loc" xlink:to="RJ_2023-01-01_600_108_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxOrdinaryActivities_loc" xlink:to="RJ_2023-01-01_605_106_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxOrdinaryActivities_loc" xlink:to="RJ_2023-01-01_605_221_ref"/>
+    <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTaxOrdinaryActivities_loc" xlink:to="RJ_2023-01-01_645_501_ref"/>
     <link:loc xlink:type="locator" xlink:href="https://www.nltaxonomie.nl/jenv/2024-03-31/bw2-titel9-cor.xsd#bw2-titel9_ResultAfterTax" xlink:label="bw2-titel9_ResultAfterTax_loc"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTax_loc" xlink:to="RJ_2023-01-01_270_402_ref"/>
     <link:referenceArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="bw2-titel9_ResultAfterTax_loc" xlink:to="RJ_2023-01-01_600_108_ref"/>
